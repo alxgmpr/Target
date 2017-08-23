@@ -1,0 +1,23 @@
+{
+  "sleep_time": 2,
+  "product": {
+    "url": "https://www.target.com/p/nintendo-super-nes-classic-edition/-/A-52826093"
+  },
+  "checkout": {
+    "email": "fake@me.com",
+    "password": "password",
+    "shipping" : {
+      "first_name": "John",
+      "last_name": "Doe",
+      "address": "123 Fake St",
+      "city": "Hollywood",
+      "state": "California"
+    },
+    "payment": {
+      "cc": "1234123412341234",
+      "exp_month": "08",
+      "exp_year": "2022",
+      "cvv": "123"
+    }
+  }
+}
